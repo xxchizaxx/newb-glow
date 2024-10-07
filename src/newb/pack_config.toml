@@ -7,7 +7,7 @@ description = '''
 %v
 §3https://devendrn.github.io/newb-shader/
 ''' # %w = patch warning, %v = version
-authors = ["ChizaXXVII", "devendrn"]
+authors = ["×XchizaX×", "devendrn"]
 url = "https://devendrn.github.io/newb-shader/"
 uuid = "debe30f7-26c3-4522-bd6b-4df6e29810d4" # Use https://www.uuidgenerator.net/version4
 materials = ["RenderChunk"]
@@ -27,34 +27,34 @@ credits = '''
 [[subpack]]
 define = "PPL"
 materials = []
-description = ''' Pixel perfection legacy'''
+description = '''PixelPerfectionLegacy'''
 
 [[subpack]]
-define = "FAITHFUL 64"
+define = "FAITHFUL64"
 materials = []
-description = ''' Faithful 64'''
+description = '''Faithful64'''
 
 [[subpack]]
 define = "FAITFUL32"
 materials = []
-description = ''' Faithful 32'''
+description = '''Faithful32'''
 
 [[subpack]]
 define = "EASYBLOCKS"
 materials = []
-description = ''' EasyBlocks '''
+description = '''EasyBlocks'''
 
 [[subpack]]
 define = "DANDELION"
 materials = []
-description = ''' Dandelion '''
+description = '''Dandelion'''
 
 [[subpack]]
 define = "BAREBONES"
 materials = []
-description = ''' BareBones '''
+description = '''BareBones'''
 
 [[subpack]]
 define = "DEFAULT"
 materials = []
-description = ''' Minecraft '''
+description = '''Minecraft'''

@@ -82,7 +82,7 @@
 #define NL_RAINBOW_RAIN 0.0  // 0.5 subtle ~ 2.0 bright during rain
 
 /* Ore glow intensity */
-#define NL_GLOW_TEX 4.0    // 0.4 weak ~ 8.0 bright
+#define NL_GLOW_TEX 8.0    // 0.4 weak ~ 8.0 bright
 #define NL_GLOW_SHIMMER    // [toggle] shimmer effect
 #define NL_GLOW_LEAK 1.0 // [toggle] 0.08 subtle ~ 1.0 100% brightness of NL_GLOW_TEX
 
