@@ -1,5 +1,5 @@
-name = "Newb X Legacy"
-version = [0, 15, 0]
+name = "Newb Glow"
+version = [0, 6, 0]
 min_supported_mc_version = [1, 21, 20]
 description = '''
 §c%w
@@ -7,10 +7,10 @@ description = '''
 %v
 §3https://devendrn.github.io/newb-shader/
 ''' # %w = patch warning, %v = version
-authors = ["devendrn"]
+authors = ["×XchizaX×", "devendrn"]
 url = "https://devendrn.github.io/newb-shader/"
-uuid = "95f774cf-4afa-73e7-a21a-72146307b1d2" # Use https://www.uuidgenerator.net/version4
-materials = ["Sky", "RenderChunk", "Actor", "ActorGlint", "EndSky", "Clouds", "SunMoon", "Weather", "ItemInHandTextured", "ItemInHandColor", "ItemInHandColorGlint", "Stars"]
+uuid = "debe30f7-26c3-4522-bd6b-4df6e29810d4" # Use https://www.uuidgenerator.net/version4
+materials = ["Sky", "RenderChunk", "Actor", "ActorGlint", "ItemInHandTextured", "ItemInHandColor", "ItemInHandColorGlint"]
 
 [info] 
 copyright = '''
@@ -29,50 +29,37 @@ credits = '''
 # right-most subpack is enabled by default
 
 [[subpack]]
-define = "ROUNDED_CLOUDS"
-materials = ["Clouds"]
-description = '''
-Rounded Clouds
-'''
+define = "PPL"
+materials = []
+description = '''PixelPerfectionLegacy'''
 
 [[subpack]]
-define = "BOX_CLOUDS"
-materials = ["Clouds", "RenderChunk"]
-description = '''
-Box Clouds
-'''
+define = "FAITHFUL64"
+materials = []
+description = '''Faithful64'''
 
 [[subpack]]
-define = "CHUNK_ANIM"
-materials = ["RenderChunk"]
-description = '''
-Chunk loading animation
-'''
+define = "FAITFUL32"
+materials = []
+description = '''Faithful32'''
 
 [[subpack]]
-define = "NO_WAVE_NO_FOG"
-materials = ["RenderChunk"]
-description = '''
-No fog and wave effects
-'''
+define = "EASYBLOCKS"
+materials = []
+description = '''EasyBlocks'''
 
 [[subpack]]
-define = "NO_FOG"
-materials = ["RenderChunk"]
-description = '''
-No fog effect
-'''
+define = "DANDELION"
+materials = []
+description = '''Dandelion'''
 
 [[subpack]]
-define = "NO_WAVE"
-materials = ["RenderChunk"]
-description = '''
-No wave effects
-'''
+define = "BAREBONES"
+materials = []
+description = '''BareBones'''
 
 [[subpack]]
 define = "DEFAULT"
 materials = []
-description = '''
-Default
-'''
+description = '''Minecraft'''
+

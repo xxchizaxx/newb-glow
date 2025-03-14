@@ -82,10 +82,10 @@
 /* Rainbow */
 //#define NL_RAINBOW         // [toggle] enable rainbow in sky
 #define NL_RAINBOW_CLEAR 0.0 // 0.3 subtle ~ 1.7 bright during clear
-#define NL_RAINBOW_RAIN 1.0  // 0.5 subtle ~ 2.0 bright during rain
+#define NL_RAINBOW_RAIN 0.0  // 0.5 subtle ~ 2.0 bright during rain
 
 /* Ore glow intensity */
-#define NL_GLOW_TEX 2.3           // 0.4 weak ~ 8.0 bright
+#define NL_GLOW_TEX 4.0           // 0.4 weak ~ 8.0 bright
 #define NL_GLOW_SHIMMER 0.8       // [toggle] 0.1 subtle ~ 1.0 100% shimmer
 #define NL_GLOW_SHIMMER_SPEED 0.9 // 0.5 slow - 2.0 fast
 //#define NL_GLOW_LEAK 0.6        // [toggle] 0.08 subtle ~ 1.0 100% brightness of NL_GLOW_TEX
@@ -114,7 +114,7 @@
 #define NL_UNDERWATER_TINT vec3(0.9,1.0,0.9) // fog tint color when underwater
 
 /* Cloud type */
-#define NL_CLOUD_TYPE 1 // 0:vanilla, 1:soft, 2:rounded, 3:realistic
+#define NL_CLOUD_TYPE 0 // 0:vanilla, 1:soft, 2:rounded, 3:realistic
 
 /* Vanilla cloud settings - make sure to remove clouds.png when using this */
 #define NL_CLOUD0_THICKNESS 2.1      // 0.5 slim ~ 8.0 fat
